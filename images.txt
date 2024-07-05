@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 --platfrom=linux/arm64 mysql:8.0.13
 --platfrom=linux/arm64 nginx:1.20.0
+nginx
